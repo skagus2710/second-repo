@@ -1,2 +1,1 @@
-# second-repo
-두번째 저장소
+readme는 마크다운 파일입니다.
